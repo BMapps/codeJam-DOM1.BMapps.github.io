@@ -9,6 +9,7 @@ window.onload = () => {
   keyboard.classList.add('keyboard');
   textarea.insertAdjacentElement('afterend', keyboard);
   let lang = localStorage.getItem('lang');
+  if (lang == null) lang = 0;
   let isShifted = false;
   let isCaps = false;
   let isCtrl = false;
@@ -856,12 +857,12 @@ window.onload = () => {
         carrierX++;
       }
     }
-    let nextLang = () => {
-      lang++;
-      if (lang > 1) lang = 0;
-      localStorage.setItem('lang', lang);
-      display();
-    };
+  };
+  let nextLang = () => {
+    lang++;
+    if (lang > 1) lang = 0;
+    localStorage.setItem('lang', lang);
+    display();
   };
   let display = () => {
     let field = 'value';
