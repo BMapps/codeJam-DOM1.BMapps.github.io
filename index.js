@@ -662,7 +662,6 @@ window.onload = () => {
     }
   });
   document.querySelector('body').addEventListener('keydown', event => {
-    event.preventDefault();
     for (let i = 0; i < keys.length; i++) {
       for (let j = 0; j < keys[i].length; j++) {
         if (
@@ -672,7 +671,7 @@ window.onload = () => {
         ) {
           let key = keyboard.childNodes[i].childNodes[j];
           key.classList.add('pressed');
-          print(keys[i][j]);
+          print(keys[i][j], event);
           return;
         }
       }
@@ -700,7 +699,7 @@ window.onload = () => {
     }
   });
 
-  let print = key => {
+  let print = (key, event) => {
     let text = textarea.value.split('\n');
     switch (key.code) {
       case 37: {
@@ -815,6 +814,7 @@ window.onload = () => {
         break;
       }
       case 9: {
+        event.preventDefault();
         text[carrierY] =
           text[carrierY].substring(0, carrierX) +
           '    ' +
@@ -842,6 +842,12 @@ window.onload = () => {
         isAlt = true;
         if (isCtrl) nextLang();
         break;
+      }
+      case 91: {
+        break;
+      }
+      case 32: {
+        event.preventDefault();
       }
       default: {
         let field = 'value';
