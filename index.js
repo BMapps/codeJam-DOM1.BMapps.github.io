@@ -23,7 +23,7 @@ window.onload = () => {
         valueCapsEn: '`',
         valueRu: 'ё',
         valueShiftRu: 'Ё',
-        valueCapsRu: 'Ё'
+        valueCapsRu: 'Ё',
       },
       {
         code: 49,
@@ -32,7 +32,7 @@ window.onload = () => {
         valueCapsEn: '1',
         valueRu: '1',
         valueShiftRu: '!',
-        valueCapsRu: '1'
+        valueCapsRu: '1',
       },
       {
         code: 50,
@@ -41,7 +41,7 @@ window.onload = () => {
         valueCapsEn: '2',
         valueRu: '2',
         valueShiftRu: '"',
-        valueCapsRu: '2'
+        valueCapsRu: '2',
       },
       {
         code: 51,
@@ -50,7 +50,7 @@ window.onload = () => {
         valueCapsEn: '3',
         valueRu: '3',
         valueShiftRu: '№',
-        valueCapsRu: '3'
+        valueCapsRu: '3',
       },
       {
         code: 52,
@@ -59,7 +59,7 @@ window.onload = () => {
         valueCapsEn: '4',
         valueRu: '4',
         valueShiftRu: ';',
-        valueCapsRu: '4'
+        valueCapsRu: '4',
       },
       {
         code: 53,
@@ -68,7 +68,7 @@ window.onload = () => {
         valueCapsEn: '5',
         valueRu: '5',
         valueShiftRu: '%',
-        valueCapsRu: '5'
+        valueCapsRu: '5',
       },
       {
         code: 54,
@@ -77,7 +77,7 @@ window.onload = () => {
         valueCapsEn: '6',
         valueRu: '6',
         valueShiftRu: ':',
-        valueCapsRu: '6'
+        valueCapsRu: '6',
       },
       {
         code: 55,
@@ -86,7 +86,7 @@ window.onload = () => {
         valueCapsEn: '7',
         valueRu: '7',
         valueShiftRu: '?',
-        valueCapsRu: '7'
+        valueCapsRu: '7',
       },
       {
         code: 56,
@@ -95,7 +95,7 @@ window.onload = () => {
         valueCapsEn: '8',
         valueRu: '8',
         valueShiftRu: '*',
-        valueCapsRu: '8'
+        valueCapsRu: '8',
       },
       {
         code: 57,
@@ -104,7 +104,7 @@ window.onload = () => {
         valueCapsEn: '9',
         valueRu: '9',
         valueShiftRu: '(',
-        valueCapsRu: '9'
+        valueCapsRu: '9',
       },
       {
         code: 48,
@@ -113,7 +113,7 @@ window.onload = () => {
         valueCapsEn: '0',
         valueRu: '0',
         valueShiftRu: ')',
-        valueCapsRu: '0'
+        valueCapsRu: '0',
       },
       {
         code: 189,
@@ -122,7 +122,7 @@ window.onload = () => {
         valueCapsEn: '-',
         valueRu: '-',
         valueShiftRu: '_',
-        valueCapsRu: '-'
+        valueCapsRu: '-',
       },
       {
         code: 187,
@@ -131,7 +131,7 @@ window.onload = () => {
         valueCapsEn: '=',
         valueRu: '=',
         valueShiftRu: '+',
-        valueCapsRu: '='
+        valueCapsRu: '=',
       },
       {
         code: 8,
@@ -141,8 +141,8 @@ window.onload = () => {
         valueRu: 'Backspace',
         valueShiftRu: 'Backspace',
         valueCapsRu: 'Backspace',
-        size: 2
-      }
+        size: 2,
+      },
     ],
     [
       {
@@ -153,7 +153,7 @@ window.onload = () => {
         valueRu: 'Tab',
         valueShiftRu: 'Tab',
         valueCapsRu: 'Tab',
-        size: 2
+        size: 2,
       },
       {
         code: 81,
@@ -162,7 +162,7 @@ window.onload = () => {
         valueCapsEn: 'Q',
         valueRu: 'й',
         valueShiftRu: 'Й',
-        valueCapsRu: 'Й'
+        valueCapsRu: 'Й',
       },
       {
         code: 87,
@@ -171,7 +171,7 @@ window.onload = () => {
         valueCapsEn: 'W',
         valueRu: 'ц',
         valueShiftRu: 'Ц',
-        valueCapsRu: 'Ц'
+        valueCapsRu: 'Ц',
       },
       {
         code: 69,
@@ -180,7 +180,7 @@ window.onload = () => {
         valueCapsEn: 'E',
         valueRu: 'у',
         valueShiftRu: 'У',
-        valueCapsRu: 'У'
+        valueCapsRu: 'У',
       },
       {
         code: 82,
@@ -189,7 +189,7 @@ window.onload = () => {
         valueCapsEn: 'R',
         valueRu: 'к',
         valueShiftRu: 'К',
-        valueCapsRu: 'К'
+        valueCapsRu: 'К',
       },
       {
         code: 84,
@@ -198,7 +198,7 @@ window.onload = () => {
         valueCapsEn: 'T',
         valueRu: 'е',
         valueShiftRu: 'Е',
-        valueCapsRu: 'Е'
+        valueCapsRu: 'Е',
       },
       {
         code: 89,
@@ -207,7 +207,7 @@ window.onload = () => {
         valueCapsEn: 'Y',
         valueRu: 'н',
         valueShiftRu: 'Н',
-        valueCapsRu: 'Н'
+        valueCapsRu: 'Н',
       },
       {
         code: 85,
@@ -216,7 +216,7 @@ window.onload = () => {
         valueCapsEn: 'U',
         valueRu: 'г',
         valueShiftRu: 'Г',
-        valueCapsRu: 'Г'
+        valueCapsRu: 'Г',
       },
       {
         code: 73,
@@ -225,7 +225,7 @@ window.onload = () => {
         valueCapsEn: 'I',
         valueRu: 'ш',
         valueShiftRu: 'Ш',
-        valueCapsRu: 'Ш'
+        valueCapsRu: 'Ш',
       },
       {
         code: 79,
@@ -234,7 +234,7 @@ window.onload = () => {
         valueCapsEn: 'O',
         valueRu: 'щ',
         valueShiftRu: 'Щ',
-        valueCapsRu: 'Щ'
+        valueCapsRu: 'Щ',
       },
       {
         code: 80,
@@ -243,7 +243,7 @@ window.onload = () => {
         valueCapsEn: 'P',
         valueRu: 'з',
         valueShiftRu: 'З',
-        valueCapsRu: 'З'
+        valueCapsRu: 'З',
       },
       {
         code: 219,
@@ -252,7 +252,7 @@ window.onload = () => {
         valueCapsEn: '[',
         valueRu: 'х',
         valueShiftRu: 'Х',
-        valueCapsRu: 'Х'
+        valueCapsRu: 'Х',
       },
       {
         code: 221,
@@ -261,7 +261,7 @@ window.onload = () => {
         valueCapsEn: ']',
         valueRu: 'ъ',
         valueShiftRu: 'Ъ',
-        valueCapsRu: 'Ъ'
+        valueCapsRu: 'Ъ',
       },
       {
         code: 46,
@@ -271,8 +271,8 @@ window.onload = () => {
         valueRu: 'Del',
         valueShiftRu: 'Del',
         valueCapsRu: 'Del',
-        size: 2
-      }
+        size: 2,
+      },
     ],
     [
       {
@@ -283,7 +283,7 @@ window.onload = () => {
         valueRu: 'CapsLock',
         valueShiftRu: 'CapsLock',
         valueCapsRu: 'CapsLock',
-        size: 2
+        size: 2,
       },
       {
         code: 65,
@@ -292,7 +292,7 @@ window.onload = () => {
         valueCapsEn: 'A',
         valueRu: 'ф',
         valueShiftRu: 'Ф',
-        valueCapsRu: 'Ф'
+        valueCapsRu: 'Ф',
       },
       {
         code: 83,
@@ -301,7 +301,7 @@ window.onload = () => {
         valueCapsEn: 'S',
         valueRu: 'ы',
         valueShiftRu: 'Ы',
-        valueCapsRu: 'Ы'
+        valueCapsRu: 'Ы',
       },
       {
         code: 68,
@@ -310,7 +310,7 @@ window.onload = () => {
         valueCapsEn: 'D',
         valueRu: 'в',
         valueShiftRu: 'В',
-        valueCapsRu: 'В'
+        valueCapsRu: 'В',
       },
       {
         code: 70,
@@ -319,7 +319,7 @@ window.onload = () => {
         valueCapsEn: 'F',
         valueRu: 'а',
         valueShiftRu: 'А',
-        valueCapsRu: 'А'
+        valueCapsRu: 'А',
       },
       {
         code: 71,
@@ -328,7 +328,7 @@ window.onload = () => {
         valueCapsEn: 'G',
         valueRu: 'п',
         valueShiftRu: 'П',
-        valueCapsRu: 'П'
+        valueCapsRu: 'П',
       },
       {
         code: 72,
@@ -337,7 +337,7 @@ window.onload = () => {
         valueCapsEn: 'H',
         valueRu: 'р',
         valueShiftRu: 'Р',
-        valueCapsRu: 'Р'
+        valueCapsRu: 'Р',
       },
       {
         code: 74,
@@ -346,7 +346,7 @@ window.onload = () => {
         valueCapsEn: 'J',
         valueRu: 'о',
         valueShiftRu: 'О',
-        valueCapsRu: 'О'
+        valueCapsRu: 'О',
       },
       {
         code: 75,
@@ -355,7 +355,7 @@ window.onload = () => {
         valueCapsEn: 'K',
         valueRu: 'л',
         valueShiftRu: 'Л',
-        valueCapsRu: 'Л'
+        valueCapsRu: 'Л',
       },
       {
         code: 76,
@@ -364,7 +364,7 @@ window.onload = () => {
         valueCapsEn: 'L',
         valueRu: 'д',
         valueShiftRu: 'Д',
-        valueCapsRu: 'Д'
+        valueCapsRu: 'Д',
       },
       {
         code: 186,
@@ -373,7 +373,7 @@ window.onload = () => {
         valueCapsEn: ';',
         valueRu: 'ж',
         valueShiftRu: 'Ж',
-        valueCapsRu: 'Ж'
+        valueCapsRu: 'Ж',
       },
       {
         code: 222,
@@ -382,7 +382,7 @@ window.onload = () => {
         valueCapsEn: "'",
         valueRu: 'э',
         valueShiftRu: 'Э',
-        valueCapsRu: 'Э'
+        valueCapsRu: 'Э',
       },
       {
         code: 13,
@@ -392,8 +392,8 @@ window.onload = () => {
         valueRu: 'Enter',
         valueShiftRu: 'Enter',
         valueCapsRu: 'Enter',
-        size: 2
-      }
+        size: 2,
+      },
     ],
     [
       {
@@ -404,7 +404,7 @@ window.onload = () => {
         valueRu: 'Shift',
         valueShiftRu: 'Shift',
         valueCapsRu: 'Shift',
-        size: 2
+        size: 2,
       },
       {
         code: 90,
@@ -413,7 +413,7 @@ window.onload = () => {
         valueCapsEn: 'Z',
         valueRu: 'я',
         valueShiftRu: 'Я',
-        valueCapsRu: 'Я'
+        valueCapsRu: 'Я',
       },
       {
         code: 88,
@@ -422,7 +422,7 @@ window.onload = () => {
         valueCapsEn: 'X',
         valueRu: 'ч',
         valueShiftRu: 'Ч',
-        valueCapsRu: 'Ч'
+        valueCapsRu: 'Ч',
       },
       {
         code: 67,
@@ -431,7 +431,7 @@ window.onload = () => {
         valueCapsEn: 'C',
         valueRu: 'с',
         valueShiftRu: 'С',
-        valueCapsRu: 'С'
+        valueCapsRu: 'С',
       },
       {
         code: 86,
@@ -440,7 +440,7 @@ window.onload = () => {
         valueCapsEn: 'V',
         valueRu: 'м',
         valueShiftRu: 'М',
-        valueCapsRu: 'М'
+        valueCapsRu: 'М',
       },
       {
         code: 66,
@@ -449,7 +449,7 @@ window.onload = () => {
         valueCapsEn: 'B',
         valueRu: 'и',
         valueShiftRu: 'И',
-        valueCapsRu: 'И'
+        valueCapsRu: 'И',
       },
       {
         code: 78,
@@ -458,7 +458,7 @@ window.onload = () => {
         valueCapsEn: 'N',
         valueRu: 'т',
         valueShiftRu: 'Т',
-        valueCapsRu: 'Т'
+        valueCapsRu: 'Т',
       },
       {
         code: 77,
@@ -467,7 +467,7 @@ window.onload = () => {
         valueCapsEn: 'M',
         valueRu: 'ь',
         valueShiftRu: 'Ь',
-        valueCapsRu: 'Ь'
+        valueCapsRu: 'Ь',
       },
       {
         code: 188,
@@ -476,7 +476,7 @@ window.onload = () => {
         valueCapsEn: ',',
         valueRu: 'б',
         valueShiftRu: 'Б',
-        valueCapsRu: 'Б'
+        valueCapsRu: 'Б',
       },
       {
         code: 190,
@@ -485,7 +485,7 @@ window.onload = () => {
         valueCapsEn: '.',
         valueRu: 'ю',
         valueShiftRu: 'Ю',
-        valueCapsRu: 'Ю'
+        valueCapsRu: 'Ю',
       },
       {
         code: 191,
@@ -494,7 +494,7 @@ window.onload = () => {
         valueCapsEn: '/',
         valueRu: '.',
         valueShiftRu: ',',
-        valueCapsRu: '.'
+        valueCapsRu: '.',
       },
       {
         code: 38,
@@ -503,7 +503,7 @@ window.onload = () => {
         valueCapsEn: '&#8593',
         valueRu: '&#8593',
         valueShiftRu: '&#8593',
-        valueCapsRu: '&#8593'
+        valueCapsRu: '&#8593',
       },
       {
         code: 16,
@@ -513,8 +513,8 @@ window.onload = () => {
         valueRu: 'Shift',
         valueShiftRu: 'Shift',
         valueCapsRu: 'Shift',
-        location: 2
-      }
+        location: 2,
+      },
     ],
     [
       {
@@ -524,7 +524,7 @@ window.onload = () => {
         valueCapsEn: 'Ctrl',
         valueRu: 'Ctrl',
         valueShiftRu: 'Ctrl',
-        valueCapsRu: 'Ctrl'
+        valueCapsRu: 'Ctrl',
       },
       {
         code: 91,
@@ -533,26 +533,7 @@ window.onload = () => {
         valueCapsEn: 'Win',
         valueRu: 'Win',
         valueShiftRu: 'Win',
-        valueCapsRu: 'Win'
-      },
-      {
-        code: 18,
-        valueEn: 'Alt',
-        valueShiftEn: 'Alt',
-        valueCapsEn: 'Alt',
-        valueRu: 'Alt',
-        valueShiftRu: 'Alt',
-        valueCapsRu: 'Alt'
-      },
-      {
-        code: 32,
-        valueEn: ' ',
-        valueShiftEn: ' ',
-        valueCapsEn: ' ',
-        valueRu: ' ',
-        valueShiftRu: ' ',
-        valueCapsRu: ' ',
-        size: 5
+        valueCapsRu: 'Win',
       },
       {
         code: 18,
@@ -562,7 +543,26 @@ window.onload = () => {
         valueRu: 'Alt',
         valueShiftRu: 'Alt',
         valueCapsRu: 'Alt',
-        location: 2
+      },
+      {
+        code: 32,
+        valueEn: ' ',
+        valueShiftEn: ' ',
+        valueCapsEn: ' ',
+        valueRu: ' ',
+        valueShiftRu: ' ',
+        valueCapsRu: ' ',
+        size: 5,
+      },
+      {
+        code: 18,
+        valueEn: 'Alt',
+        valueShiftEn: 'Alt',
+        valueCapsEn: 'Alt',
+        valueRu: 'Alt',
+        valueShiftRu: 'Alt',
+        valueCapsRu: 'Alt',
+        location: 2,
       },
       {
         code: 17,
@@ -572,7 +572,7 @@ window.onload = () => {
         valueRu: 'Ctrl',
         valueShiftRu: 'Ctrl',
         valueCapsRu: 'Ctrl',
-        location: 2
+        location: 2,
       },
       {
         code: 37,
@@ -581,7 +581,7 @@ window.onload = () => {
         valueCapsEn: '&#8592',
         valueRu: '&#8592',
         valueShiftRu: '&#8592',
-        valueCapsRu: '&#8592'
+        valueCapsRu: '&#8592',
       },
       {
         code: 40,
@@ -590,7 +590,7 @@ window.onload = () => {
         valueCapsEn: '&#8595',
         valueRu: '&#8595',
         valueShiftRu: '&#8595',
-        valueCapsRu: '&#8595'
+        valueCapsRu: '&#8595',
       },
       {
         code: 39,
@@ -599,137 +599,62 @@ window.onload = () => {
         valueCapsEn: '&#8594',
         valueRu: '&#8594',
         valueShiftRu: '&#8594',
-        valueCapsRu: '&#8594'
-      }
-    ]
+        valueCapsRu: '&#8594',
+      },
+    ],
   ];
-  let field = 'value';
-  if (lang == 0) field += 'En';
-  if (lang == 1) field += 'Ru';
-  for (i = 0; i < keys.length; i++) {
-    let keyboardRow = document.createElement('div');
-    keyboardRow.classList.add('keyboard-row');
-    keyboard.insertAdjacentElement('beforeend', keyboardRow);
-    for (let j = 0; j < keys[i].length; j++) {
-      let key = document.createElement('div');
-      key.classList.add('key');
-      key.innerHTML = keys[i][j][field];
-      if (keys[i][j].size == 2) key.classList.add('wide');
-      if (keys[i][j].size == 5) key.classList.add('widest');
-      keyboardRow.insertAdjacentElement('beforeend', key);
-    }
-  }
-  let pressed = keyboard;
-  keyboard.addEventListener('mousedown', event => {
-    if (event.target.classList.contains('key')) {
-      event.target.classList.add('pressed');
-      pressed = event.target;
-      let field = 'value';
-      if (isShifted) field += 'Shift';
-      if (isCaps && !isShifted) field += 'Caps';
-      if (lang == 0) field += 'En';
-      if (lang == 1) field += 'Ru';
-      for (let i = 0; i < keys.length; i++) {
-        for (let j = 0; j < keys[i].length; j++) {
-          if (
-            event.target.innerText == keys[i][j][field] ||
-            (event.target.innerText.length == 0 && keys[i][j][field] == ' ') ||
-            (event.target.innerText.length == 1 &&
-              event.target.innerText.charCodeAt(0) ==
-                keys[i][j][field].substring(2, 6))
-          ) {
-            print(keys[i][j]);
-            return;
-          }
-        }
-      }
-    }
-  });
-  document.querySelector('body').addEventListener('mouseup', event => {
-    pressed.classList.remove('pressed');
-    if (event.target.innerText == 'Shift') {
-      isShifted = false;
-      display();
-      return;
-    }
-    if (event.target.innerText == 'Alt') {
-      isAlt = false;
-      return;
-    }
-    if (event.target.innerText == 'Ctrl') {
-      isCtrl = false;
-      return;
-    }
-  });
-  document.querySelector('body').addEventListener('keydown', event => {
-    for (let i = 0; i < keys.length; i++) {
-      for (let j = 0; j < keys[i].length; j++) {
-        if (
-          keys[i][j].code == event.keyCode &&
-          (event.location < 2 ||
-            (event.location == 2 && keys[i][j].location == 2))
-        ) {
-          let key = keyboard.childNodes[i].childNodes[j];
-          key.classList.add('pressed');
-          print(keys[i][j], event);
-          return;
-        }
-      }
-    }
-  });
-  document.querySelector('body').addEventListener('keyup', event => {
-    for (let i = 0; i < keys.length; i++) {
-      for (let j = 0; j < keys[i].length; j++) {
-        if (
-          keys[i][j].code == event.keyCode &&
-          (event.location < 2 ||
-            (event.location == 2 && keys[i][j].location == 2))
-        ) {
-          let key = keyboard.childNodes[i].childNodes[j];
-          key.classList.remove('pressed');
-          if (event.keyCode == 16) {
-            isShifted = false;
-            display();
-          }
-          if (event.keyCode == 17) isCtrl = false;
-          if (event.keyCode == 18) isAlt = false;
-          return;
-        }
-      }
-    }
-  });
 
-  let print = (key, event) => {
-    let text = textarea.value.split('\n');
+  let field = 'value';
+  if (+lang === 0) field += 'En';
+  if (+lang === 1) field += 'Ru';
+  const display = () => {
+    field = 'value';
+    if (isShifted) field += 'Shift';
+    if (isCaps && !isShifted) field += 'Caps';
+    if (+lang === 0) field += 'En';
+    if (+lang === 1) field += 'Ru';
+    for (let i = 0; i < keys.length; i += 1) {
+      const row = keyboard.childNodes[i];
+      for (let j = 0; j < keys[i].length; j += 1) {
+        row.childNodes[j].innerHTML = keys[i][j][field];
+      }
+    }
+  };
+
+  const nextLang = () => {
+    lang = +lang + 1;
+    if (lang > 1) lang = 0;
+    localStorage.setItem('lang', lang);
+    display();
+  };
+
+  const print = (key, event) => {
+    const text = textarea.value.split('\n');
     switch (key.code) {
       case 37: {
         if (carrierX > 0) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX - 1) +
-            '_' +
-            text[carrierY][carrierX - 1] +
-            text[carrierY].substring(carrierX + 1, text[carrierY].length);
-          carrierX--;
+          text[carrierY] = text[carrierY].substring(0, carrierX - 1).concat('_')
+            + text[carrierY][carrierX - 1]
+            + text[carrierY].substring(carrierX + 1, text[carrierY].length);
+          carrierX -= 1;
         } else if (carrierY > 0) {
           text[carrierY] = text[carrierY].substring(1, text[carrierY].length);
-          carrierY--;
-          text[carrierY] = text[carrierY] + '_';
+          carrierY -= 1;
+          text[carrierY] += '_';
           carrierX = text[carrierY].length - 1;
         }
         textarea.value = text.join('\n');
         break;
       }
       case 38: {
+        event.preventDefault();
         if (carrierY > 0) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX) +
-            text[carrierY].substring(carrierX + 1, text[carrierY].length);
-          carrierY--;
+          text[carrierY] = text[carrierY].substring(0, carrierX)
+            + text[carrierY].substring(carrierX + 1, text[carrierY].length);
+          carrierY -= 1;
           if (text[carrierY].length > carrierX) {
-            text[carrierY] =
-              text[carrierY].substring(0, carrierX) +
-              '_' +
-              text[carrierY].substring(carrierX, text[carrierY].length);
+            text[carrierY] = text[carrierY].substring(0, carrierX).concat('_')
+              + text[carrierY].substring(carrierX, text[carrierY].length);
           } else {
             carrierX = text[carrierY].length;
             text[carrierY] += '_';
@@ -740,37 +665,30 @@ window.onload = () => {
       }
       case 39: {
         if (carrierX < text[carrierY].length - 1) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX) +
-            text[carrierY][carrierX + 1] +
-            '_' +
-            text[carrierY].substring(carrierX + 2, text[carrierY].length);
-          carrierX++;
+          text[carrierY] = text[carrierY].substring(0, carrierX)
+            + text[carrierY][carrierX + 1].concat('_')
+            + text[carrierY].substring(carrierX + 2, text[carrierY].length);
+          carrierX += 1;
         } else if (carrierY < text.length - 1) {
-          text[carrierY] = text[carrierY].substring(
-            0,
-            text[carrierY].length - 1
-          );
-          carrierY++;
-          text[carrierY] = '_' + text[carrierY];
+          text[carrierY] = text[carrierY].substring(0, text[carrierY].length - 1);
+          carrierY += 1;
+          text[carrierY] = ('_').concat(text[carrierY]);
           carrierX = 0;
         }
         textarea.value = text.join('\n');
         break;
       }
       case 40: {
+        event.preventDefault();
         if (carrierY < text.length - 1) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX) +
-            text[carrierY].substring(carrierX + 1, text[carrierY].length);
-          carrierY++;
+          text[carrierY] = text[carrierY].substring(0, carrierX)
+            + text[carrierY].substring(carrierX + 1, text[carrierY].length);
+          carrierY += 1;
           if (text[carrierY].length > carrierX) {
-            text[carrierY] =
-              text[carrierY].substring(0, carrierX) +
-              '_' +
-              text[carrierY].substring(carrierX, text[carrierY].length);
+            text[carrierY] = text[carrierY].substring(0, carrierX).concat('_')
+              + text[carrierY].substring(carrierX, text[carrierY].length);
           } else {
-            text[carrierY] = text[carrierY] + '_';
+            text[carrierY] += '_';
           }
         }
         textarea.value = text.join('\n');
@@ -778,9 +696,8 @@ window.onload = () => {
       }
       case 46: {
         if (carrierX < text[carrierY].length - 1) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX + 1) +
-            text[carrierY].substring(carrierX + 2, text[carrierY].length);
+          text[carrierY] = text[carrierY].substring(0, carrierX + 1)
+            + text[carrierY].substring(carrierX + 2, text[carrierY].length);
         } else if (carrierY < text.length - 1) {
           text[carrierY] += text[carrierY + 1];
           text.splice(carrierY + 1, 1);
@@ -789,36 +706,31 @@ window.onload = () => {
         break;
       }
       case 13: {
-        text[carrierY] =
-          text[carrierY].substring(0, carrierX) +
-          '\n' +
-          text[carrierY].substring(carrierX, text[carrierY].length);
+        text[carrierY] = text[carrierY].substring(0, carrierX).concat('\n')
+          + text[carrierY].substring(carrierX, text[carrierY].length);
         textarea.value = text.join('\n');
-        carrierY++;
+        carrierY += 1;
         carrierX = 0;
         break;
       }
       case 8: {
         if (carrierX > 0) {
-          text[carrierY] =
-            text[carrierY].substring(0, carrierX - 1) +
-            text[carrierY].substring(carrierX, text[carrierY].length);
-          carrierX--;
+          text[carrierY] = text[carrierY].substring(0, carrierX - 1)
+            + text[carrierY].substring(carrierX, text[carrierY].length);
+          carrierX -= 1;
         } else if (carrierY > 0) {
           carrierX = text[carrierY - 1].length;
           text[carrierY - 1] += text[carrierY];
           text.splice(carrierY, 1);
-          carrierY--;
+          carrierY -= 1;
         }
         textarea.value = text.join('\n');
         break;
       }
       case 9: {
         event.preventDefault();
-        text[carrierY] =
-          text[carrierY].substring(0, carrierX) +
-          '    ' +
-          text[carrierY].substring(carrierX, text[carrierY].length);
+        text[carrierY] = text[carrierY].substring(0, carrierX).concat('    ')
+          + text[carrierY].substring(carrierX, text[carrierY].length);
         textarea.value = text.join('\n');
         carrierX += 4;
         break;
@@ -839,6 +751,7 @@ window.onload = () => {
         break;
       }
       case 18: {
+        event.preventDefault();
         isAlt = true;
         if (isCtrl) nextLang();
         break;
@@ -848,39 +761,115 @@ window.onload = () => {
       }
       case 32: {
         event.preventDefault();
+        text[carrierY] = text[carrierY].substring(0, carrierX).concat(' ')
+          + text[carrierY].substring(carrierX, text[carrierY].length);
+        textarea.value = text.join('\n');
+        carrierX += 1;
+        break;
       }
       default: {
-        let field = 'value';
+        field = 'value';
         if (isShifted) field += 'Shift';
         if (isCaps && !isShifted) field += 'Caps';
-        if (lang == 0) field += 'En';
-        if (lang == 1) field += 'Ru';
-        text[carrierY] =
-          text[carrierY].substring(0, carrierX) +
-          key[field] +
-          text[carrierY].substring(carrierX, text[carrierY].length);
+        if (+lang === 0) field += 'En';
+        if (+lang === 1) field += 'Ru';
+        text[carrierY] = text[carrierY].substring(0, carrierX) + key[field]
+          + text[carrierY].substring(carrierX, text[carrierY].length);
         textarea.value = text.join('\n');
-        carrierX++;
+        carrierX += 1;
       }
     }
   };
-  let nextLang = () => {
-    lang++;
-    if (lang > 1) lang = 0;
-    localStorage.setItem('lang', lang);
-    display();
-  };
-  let display = () => {
-    let field = 'value';
-    if (isShifted) field += 'Shift';
-    if (isCaps && !isShifted) field += 'Caps';
-    if (lang == 0) field += 'En';
-    if (lang == 1) field += 'Ru';
-    for (let i = 0; i < keys.length; i++) {
-      let row = keyboard.childNodes[i];
-      for (let j = 0; j < keys[i].length; j++) {
-        row.childNodes[j].innerHTML = keys[i][j][field];
+
+  for (let i = 0; i < keys.length; i += 1) {
+    const keyboardRow = document.createElement('div');
+    keyboardRow.classList.add('keyboard-row');
+    keyboard.insertAdjacentElement('beforeend', keyboardRow);
+    for (let j = 0; j < keys[i].length; j += 1) {
+      const key = document.createElement('div');
+      key.classList.add('key');
+      key.innerHTML = keys[i][j][field];
+      if (keys[i][j].size === 2) key.classList.add('wide');
+      if (keys[i][j].size === 5) key.classList.add('widest');
+      keyboardRow.insertAdjacentElement('beforeend', key);
+    }
+  }
+  let pressed = keyboard;
+  keyboard.addEventListener('mousedown', (event) => {
+    if (event.target.classList.contains('key')) {
+      event.target.classList.add('pressed');
+      pressed = event.target;
+      field = 'value';
+      if (isShifted) field += 'Shift';
+      if (isCaps && !isShifted) field += 'Caps';
+      if (+lang === 0) field += 'En';
+      if (+lang === 1) field += 'Ru';
+      for (let i = 0; i < keys.length; i += 1) {
+        for (let j = 0; j < keys[i].length; j += 1) {
+          if (
+            event.target.innerText === keys[i][j][field]
+            || (event.target.innerText.length === 0 && keys[i][j][field] === ' ')
+            || (event.target.innerText.length === 1
+              && event.target.innerText.charCodeAt(0)
+              === keys[i][j][field].substring(2, 6))
+          ) {
+            print(keys[i][j]);
+            return;
+          }
+        }
       }
     }
-  };
+  });
+  document.querySelector('body').addEventListener('mouseup', (event) => {
+    pressed.classList.remove('pressed');
+    if (event.target.innerText === 'Shift') {
+      isShifted = false;
+      display();
+      return;
+    }
+    if (event.target.innerText === 'Alt') {
+      isAlt = false;
+      return;
+    }
+    if (event.target.innerText === 'Ctrl') {
+      isCtrl = false;
+    }
+  });
+  document.querySelector('body').addEventListener('keydown', (event) => {
+    for (let i = 0; i < keys.length; i += 1) {
+      for (let j = 0; j < keys[i].length; j += 1) {
+        if (
+          keys[i][j].code === event.keyCode
+          && (event.location < 2
+            || (event.location === 2 && keys[i][j].location === 2))
+        ) {
+          const key = keyboard.childNodes[i].childNodes[j];
+          key.classList.add('pressed');
+          print(keys[i][j], event);
+          return;
+        }
+      }
+    }
+  });
+  document.querySelector('body').addEventListener('keyup', (event) => {
+    for (let i = 0; i < keys.length; i += 1) {
+      for (let j = 0; j < keys[i].length; j += 1) {
+        if (
+          keys[i][j].code === event.keyCode
+          && (event.location < 2
+            || (event.location === 2 && keys[i][j].location === 2))
+        ) {
+          const key = keyboard.childNodes[i].childNodes[j];
+          key.classList.remove('pressed');
+          if (event.keyCode === 16) {
+            isShifted = false;
+            display();
+          }
+          if (event.keyCode === 17) isCtrl = false;
+          if (event.keyCode === 18) isAlt = false;
+          return;
+        }
+      }
+    }
+  });
 };
