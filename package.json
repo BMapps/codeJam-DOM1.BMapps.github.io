@@ -1,0 +1,25 @@
+{
+  "name": "codeJam-DOM1.BMapps.github.io",
+  "version": "1.0.0",
+  "description": "Gh-pages:[https://bmapps.github.io/codeJam-DOM1.BMapps.github.io/]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMapps/codeJam-DOM1.BMapps.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BMapps/codeJam-DOM1.BMapps.github.io/issues"
+  },
+  "homepage": "https://github.com/BMapps/codeJam-DOM1.BMapps.github.io#readme",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
